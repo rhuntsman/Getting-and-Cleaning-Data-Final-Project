@@ -53,7 +53,7 @@ The dataset includes the following files:
 
 - 'SummaryActivityDataBySubject.txt'
 
-- 'README.txt'
+- 'README.MD'
 
 - 'CodeBook.txt' - List of all variables in the SummaryActivityBySubjectAndActivity.txt file.
 
